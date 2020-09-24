@@ -13,3 +13,9 @@ Mijn leerkracht zegt wel eens:
 >Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes!
 
 :peach:
+
+## Visual studie code 
+Visual Studio code is toch **echt** wel een editor met veel mogelijkheden
+
+Nu zal je (hopelijk) ontdekken hoe krachtig het werken ùet een (degelijk) versiebeheer-systeem is!
+
